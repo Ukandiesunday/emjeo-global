@@ -24,7 +24,7 @@ const Service = () => {
         </div>
         <div>
           <Image
-            src={"/images/emjoimg.jpeg"}
+            src={"/images/emjo-rods.jpeg"}
             alt="service"
             height={200}
             width={400}
@@ -44,11 +44,7 @@ const Service = () => {
             width={400}
             className="rounded-lg"
           />
-          <p className="pt-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-            saepe veritatis alias dignissimos dolor esse similique delectus
-            quisquam nihil natus.
-          </p>
+          <p className="pt-5">Leasing of building equipments</p>
         </div>
 
         <div>
@@ -60,9 +56,8 @@ const Service = () => {
             className="rounded-lg"
           />
           <p className="pt-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-            saepe veritatis alias dignissimos dolor esse similique delectus
-            quisquam nihil natus.
+            Deals on all kinds of cements, such as superset, Dangote, Bua,
+            unicem. All ship to your site at affordable rates.
           </p>
         </div>
         <div>
@@ -73,10 +68,21 @@ const Service = () => {
             width={400}
             className="rounded-lg"
           />
+          <p className="pt-5">Leasing of building equipments</p>
+        </div>
+        <div>
+          <Image
+            src={"/images/zinc.jpeg"}
+            alt="service"
+            height={400}
+            width={400}
+            className="rounded-lg"
+          />
           <p className="pt-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-            saepe veritatis alias dignissimos dolor esse similique delectus
-            quisquam nihil natus.
+            Deals on all kinds roofing sheets, such as Nigerian Zinc, Cameroon
+            different colours, Aluminium sheet, long span, metro tiles , step
+            tile, metocubo, Zinc Nail. All kinds of Nails. Wood , and carpentry
+            service, wood treatment,
           </p>
         </div>
       </div>
