@@ -8,9 +8,9 @@ const Footer = () => {
         <h2 className="text-white font-bold">About Us </h2>
 
         <p className="pt-3 text-[14px] leading-[30px]">
-          Deals on all kinds of building materials, sales and supplies. Such
-          cement, rods , nails , paints, zinc, aluminium, sand, granite etc.
-          General contracts and services. Such as project manager and
+          Deals on all kinds of building materials, sales and supplies. Such as
+          cement, rods , nails , paints, wood, zinc, aluminium, sand, granite
+          etc. General contracts and services. Such as project manager and
           supervision. Project execution from starting stage to finishing stage.
           Consultancy etc
         </p>

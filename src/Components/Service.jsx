@@ -32,7 +32,7 @@ const Service = () => {
           />
           <p className="pt-5">
             Deals on all kinds of iron rods of different sizes. All ship to your
-            cite at affordable rates
+            site at affordable rates
           </p>
         </div>
 
@@ -81,7 +81,7 @@ const Service = () => {
           <p className="pt-5">
             Deals on all kinds roofing sheets, such as Nigerian Zinc, Cameroon
             different colours, Aluminium sheet, long span, metro tiles , step
-            tile, metocubo, Zinc Nail. All kinds of Nails. Wood , and carpentry
+            tile, Metcopo, Zinc Nail. All kinds of Nails. Wood , and carpentry
             service, wood treatment,
           </p>
         </div>
