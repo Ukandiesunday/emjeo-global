@@ -1,0 +1,87 @@
+import Image from "next/image";
+import React from "react";
+
+const Service = () => {
+  return (
+    <div className="px-[40px] py-[50px]">
+      <h2 className="text-[35px] font-bold capitalize pb-2">
+        Our goods & services
+      </h2>
+      <div className="grid grid-cols-1 gap-[30px] md:grid-cols-2 lg:grid-cols-3">
+        <div className="">
+          <Image
+            src={"/images/emjosand.jpeg"}
+            alt="service"
+            height={200}
+            width={400}
+            className="rounded-lg"
+          />
+
+          <p className="pt-5">
+            Deals on all kinds of sand for building and construction. All
+            delivered to your door steps
+          </p>
+        </div>
+        <div>
+          <Image
+            src={"/images/emjoimg.jpeg"}
+            alt="service"
+            height={200}
+            width={400}
+            className="rounded-lg"
+          />
+          <p className="pt-5">
+            Deals on all kinds of iron rods of different sizes. All ship to your
+            cite at affordable rates
+          </p>
+        </div>
+
+        <div>
+          <Image
+            src={"/images/emjo.jpeg"}
+            alt="service"
+            height={400}
+            width={400}
+            className="rounded-lg"
+          />
+          <p className="pt-5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            saepe veritatis alias dignissimos dolor esse similique delectus
+            quisquam nihil natus.
+          </p>
+        </div>
+
+        <div>
+          <Image
+            src={"/images/cemet.jpeg"}
+            alt="service"
+            height={400}
+            width={400}
+            className="rounded-lg"
+          />
+          <p className="pt-5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            saepe veritatis alias dignissimos dolor esse similique delectus
+            quisquam nihil natus.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={"/images/tools.jpeg"}
+            alt="service"
+            height={400}
+            width={400}
+            className="rounded-lg"
+          />
+          <p className="pt-5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            saepe veritatis alias dignissimos dolor esse similique delectus
+            quisquam nihil natus.
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Service;
