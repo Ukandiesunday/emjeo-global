@@ -3,7 +3,7 @@ import { BsWhatsapp } from "react-icons/bs";
 import { FaFacebook } from "react-icons/fa";
 const Footer = () => {
   return (
-    <div className="bg-black h-fit flex flex-col  text-white justify-between gap-[50px] md:flex-row px-[40px] py-[40px]">
+    <div className="bg-black h-fit flex flex-col  text-white justify-between gap-[50px] md:flex-row px-[30px] py-[40px]">
       <div className="text-white md:max-w-[300px]">
         <h2 className="text-white font-bold">About Us </h2>
 

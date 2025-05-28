@@ -3,7 +3,7 @@ import React from "react";
 
 const Service = () => {
   return (
-    <div className="px-[40px] py-[50px]">
+    <div className="px-[30px] py-[50px]">
       <h2 className="text-[35px] font-bold capitalize pb-2">
         Our goods & services
       </h2>
